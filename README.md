@@ -1,5 +1,5 @@
 ## Deploy 주소
-https://netflix-wooomr2.vercel.app
+https://netflix-woomr815.vercel.app
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -13,5 +13,5 @@ https://netflix-wooomr2.vercel.app
 - Firebase Admin, Cloud 보안 규칙 설정
 - 상태관리 Recoil, context API
 - Custom-hook 연습
-- TMDB MOVIE API 연동
+- TMDB MOVIE API
 
